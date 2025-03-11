@@ -1,0 +1,15 @@
+{
+  "name": "cpm_volume",
+  "author": "Ryan Berg",
+  "version": "0.1.0",
+  "description": "3D Dimensional CPM on the GPU",
+  "type": "module",
+  "dependencies": {
+    "dat.gui": "^0.7.9",
+    "wgpu-matrix": "^3.0.1"
+  },
+  "devDependencies": {
+    "@types/dat.gui": "^0.7.13",
+    "@webgpu/types": "^0.1.47"
+  }
+}
